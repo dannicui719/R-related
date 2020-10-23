@@ -1,0 +1,1 @@
+fishPassage <- read.csv(file = "fishPassage.csv")
